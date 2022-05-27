@@ -1,0 +1,22 @@
+h1  {
+    color: red;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+h1  {
+    font-weight: 600;
+}
+
+
+#mando  {
+    color: grey;
+}
+
+#grogu  {
+    color: green;
+}
+
+.tacos {
+    color: purple
+}
